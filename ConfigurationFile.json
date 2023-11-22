@@ -1,0 +1,22 @@
+[
+	{
+
+		"Post_processing_port":"9083" ,
+
+		"comment": "------------------redis configurations------------------",
+		"Redis_Host":"{host}",
+		"Redis_Port":"6379",
+		"Redis_Password":"@ddixo20190213**",
+		"db":"0",
+
+		"Is_OF_enabled": "True",
+
+		"comment_2": "----------------server dependencies, can be modified by user---------------",
+		"Panel_reference_list":["00:00:01","00:00:02"],
+		"log_level": "INFO",
+		"simulation": "True",
+		"console_log":"True",
+		"Host":"localhost"
+
+	}
+]
